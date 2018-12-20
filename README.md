@@ -112,7 +112,7 @@ Sumário
 	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
     <td>São Paulo - SP</td>
 	<td>PLA, ABS, PETG, ASA</td>
-	  <td>:heavy_check_mark:</td>
+	  <td>:heavy_check_mark:, com pacote de silica incluso</td>
   </tr>
   <tr>
 	<td><a href="https://3dprocer.com.br">3D Procer</a></td>
@@ -124,7 +124,7 @@ Sumário
 	<td><a href="https://3dsquad.com.br">3dSquad</a></td>
     <td>São Bernardo do Campo – SP</td>
 	<td>ABS</td>
-	  <td>Não informado</td>
+	  <td>:heavy_check_mark:, com pacote de silica incluso</td>
   </tr>
   <tr>
 	<td><a href="https://lista.mercadolivre.com.br/_CustId_155239172">3dSolid</a></td>
